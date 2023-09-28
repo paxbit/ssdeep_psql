@@ -1,6 +1,7 @@
 #include "postgres.h"
 #include "fmgr.h"
 #include <fuzzy.h>
+#include "varatt.h"
 
 PG_MODULE_MAGIC;
 
